@@ -2,7 +2,7 @@
   "name": "dhs.audioqueue",
   "version": "1.0.0",
   "displayName": "AudioQueue",
-  "description": "Object-pooling for Audio Sources",
+  "description": "Object-pooling for Audio Sources.",
   "unity": "2019.1",
   "author": {
     "name": "Desert Hare Studios",
